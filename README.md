@@ -1,4 +1,8 @@
 ## Hi there 👋
+🔭I’m skilled in Data and Data visualization.
+💬 Ask me about any Data related business queries or case studies.
+Having experience in tools like Tableau and Power BI.
+Experince in languages like Python and SQL.
 
 <!--
 **Souradeep5690/Souradeep5690** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
